@@ -5,4 +5,4 @@ But we cannot guarantee that this 100% accurate there can be several circumstanc
 But this can be used as help to examines and anybody can try this and see whether the results are good. 
 Hope you will create a good discussion from this.
 
-This pnemonia detection detects your affeceted lung analysis by processed your X-Rays
+This pnemonia detection detects your affeceted lung analysis by processed you're X-Rays
