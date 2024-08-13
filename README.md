@@ -1,4 +1,4 @@
-# Pneumonia-detection-using-Chest-X-Rays-by-CNN
+# Precision Pneumonia Detection Leveraging Using CNN - Neural Networks
 
 ## Machine Learning 
 
